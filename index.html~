@@ -63,18 +63,18 @@
     <!--/.header-->
     <div id="#top"></div>
     <section id="home">
-        <div class="banner-container">
+        <div class="banner-container" >
             <img src="images/banner-bg.jpg" alt="banner" />
             <div class="container banner-content">
                 <div id="da-slider" class="da-slider">
                     <div class="da-slide">
-                        <h2>Webdesigner</h2>
-                        <p>Amazing free responsive website for free, enjoy!!!</p>
+                        <h2 style="color: brown;">Webdesigner</h2>
+                        <p style="color: brown;">Amazing free responsive website for free, enjoy!!!</p>
                         <div class="da-img"></div>
                     </div>
-                    <div class="da-slide">
-                        <h2>UX/UI Developer</h2>
-                        <p>I develop website using Bootstrap front-end framework..</p>
+                    <div class="da-slide" >
+                        <h2 style="color: brown;">UX/UI Developer</h2>
+                        <p style="color: brown;">I develop website using Bootstrap front-end framework..</p>
                         <div class="da-img"></div>
                     </div>
                     
@@ -379,7 +379,7 @@
                                     <div class="portfolio-desc align-center">
                                         <div class="folio-info">
                                             <a href="images/bcard.png" class="fancybox">
-                                                <h5>Project Name</h5>
+                                                <h5>B.card project</h5>
                                                 <i class="fa fa-arrows-alt fa-2x"></i></a>
                                         </div>
                                     </div>
@@ -388,11 +388,11 @@
 
                             <article class="col-sm-4 isotopeItem photography">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/img2.jpg" alt="" />
+                                    <img src="images/jenny.png" alt="" />
                                     <div class="portfolio-desc align-center">
                                         <div class="folio-info">
-                                            <a href="images/portfolio/img2.jpg" class="fancybox">
-                                                <h5>Project Name</h5>
+                                            <a href="images/jenny.png" class="fancybox">
+                                                <h5>designer</h5>
                                                 <i class="fa fa-arrows-alt fa-2x"></i></a>
                                         </div>
                                     </div>
@@ -402,10 +402,10 @@
 
                             <article class="col-sm-4 isotopeItem photography">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/img3.jpg" alt="" />
+                                    <img src="images/" alt="" />
                                     <div class="portfolio-desc align-center">
                                         <div class="folio-info">
-                                            <a href="images/portfolio/img3.jpg" class="fancybox">
+                                            <a href="images/" class="fancybox">
                                                 <h5>Project Name</h5>
                                                 <i class="fa fa-arrows-alt fa-2x"></i></a>
                                         </div>
@@ -415,10 +415,10 @@
 
                             <article class="col-sm-4 isotopeItem print">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/img4.jpg" alt="" />
+                                    <img src="images/design.png" alt="" />
                                     <div class="portfolio-desc align-center">
                                         <div class="folio-info">
-                                            <a href="images/portfolio/img4.jpg" class="fancybox">
+                                            <a href="images/design.png" class="fancybox">
                                                 <h5>Project Name</h5>
                                                 <i class="fa fa-arrows-alt fa-2x"></i></a>
                                         </div>
@@ -428,10 +428,10 @@
 
                             <article class="col-sm-4 isotopeItem photography">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/img5.jpg" alt="" />
+                                    <img src="images/greens333.png" alt="" />
                                     <div class="portfolio-desc align-center">
                                         <div class="folio-info">
-                                            <a href="images/portfolio/img5.jpg" class="fancybox">
+                                            <a href="images/greens333.png" class="fancybox">
                                                 <h5>Project Name</h5>
                                                 <i class="fa fa-arrows-alt fa-2x"></i></a>
                                         </div>
@@ -445,7 +445,7 @@
                                     <div class="portfolio-desc align-center">
                                         <div class="folio-info">
                                             <a href="images/portfolio/img6.jpg" class="fancybox">
-                                                <h5>Project Name</h5>
+                                                <h5>project name</h5>
                                                 <i class="fa fa-arrows-alt fa-2x"></i></a>
                                         </div>
                                     </div>
@@ -454,10 +454,10 @@
 
                             <article class="col-sm-4 isotopeItem print">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/img7.jpg" alt="" />
+                                    <img src="images/mat.png" alt="" />
                                     <div class="portfolio-desc align-center">
                                         <div class="folio-info">
-                                            <a href="images/portfolio/img7.jpg" class="fancybox">
+                                            <a href="images/mat.png" class="fancybox">
                                                 <h5>Project Name</h5>
                                                 <i class="fa fa-arrows-alt fa-2x"></i></a>
                                         </div>
@@ -467,11 +467,11 @@
 
                             <article class="col-sm-4 isotopeItem photography">
                                 <div class="portfolio-item">
-                                    <img src="images/portfolio/img8.jpg" alt="" />
+                                    <img src="images/.matpng" alt="" />
                                     <div class="portfolio-desc align-center">
                                         <div class="folio-info">
-                                            <a href="images/portfolio/img8.jpg" class="fancybox">
-                                                <h5>Project Name</h5>
+                                            <a href="images/mat.png" class="fancybox">
+                                                <h5>gimp project</h5>
                                                 <i class="fa fa-arrows-alt fa-2x"></i></a>
                                         </div>
                                     </div>
